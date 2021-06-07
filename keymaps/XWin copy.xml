@@ -17,4 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt home" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
 </keymap>
