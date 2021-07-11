@@ -3,7 +3,7 @@
     <property name="created">2021-07-09T09:22:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2021-07-11T21:37:26</property>
+    <property name="modified">2021-07-11T21:59:19</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
   <colors>
@@ -913,9 +913,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6e84bd" />
+        <option name="BACKGROUND" value="328fdc" />
         <option name="EFFECT_COLOR" value="847e76" />
-        <option name="ERROR_STRIPE_COLOR" value="6e84bd" />
+        <option name="ERROR_STRIPE_COLOR" value="328fdc" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1879,8 +1879,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="35a6f7" />
-        <option name="ERROR_STRIPE_COLOR" value="35a6f7" />
+        <option name="BACKGROUND" value="c3358d" />
+        <option name="ERROR_STRIPE_COLOR" value="c3358d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
