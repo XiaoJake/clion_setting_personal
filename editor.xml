@@ -8,9 +8,7 @@
   </component>
   <component name="TodoConfiguration">
     <multiLine>false</multiLine>
-    <pattern useCustomColors="true" pattern="\b(todo|fixme|c++11|note|)\b.*">
-      <option name="FOREGROUND" value="e998ff" />
-    </pattern>
+    <pattern pattern="\b(todo|fixme|c++11|note|)\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
