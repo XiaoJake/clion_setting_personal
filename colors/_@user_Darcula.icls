@@ -1,0 +1,28 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-07-22T10:06:36</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2021-07-22T10:07:22</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="50fa7b" />
+    <option name="FILESTATUS_COPIED" value="50fa7b" />
+    <option name="FILESTATUS_DELETED" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_MERGED" value="bd93f9" />
+    <option name="FILESTATUS_MODIFIED" value="8be9fd" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd" />
+    <option name="FILESTATUS_RENAMED" value="ff79c6" />
+    <option name="FILESTATUS_UNKNOWN" value="ff5555" />
+    <option name="FILESTATUS_addedOutside" value="50fa7b" />
+    <option name="FILESTATUS_changelistConflict" value="ff5555" />
+    <option name="FILESTATUS_modifiedOutside" value="8be9fd" />
+  </colors>
+</scheme>
