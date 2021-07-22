@@ -6,6 +6,18 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\bc++\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bnote+:\b.*">
+      <option name="FOREGROUND" value="11abff" />
+      <option name="ERROR_STRIPE_COLOR" value="11abff" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\b\?+:\b.*">
+      <option name="FOREGROUND" value="fff61c" />
+      <option name="ERROR_STRIPE_COLOR" value="fff61c" />
+    </pattern>
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
     <option name="tagTreeHighlightingOpacity" value="20" />
