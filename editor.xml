@@ -7,7 +7,10 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+    <multiLine>false</multiLine>
+    <pattern useCustomColors="true" pattern="\b(todo|fixme|c++11|note|)\b.*">
+      <option name="FOREGROUND" value="e998ff" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
