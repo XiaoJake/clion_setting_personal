@@ -8,34 +8,13 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern icon="question" case-sensitive="true" pattern="\bc++\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bnote\b.*">
-      <option name="FOREGROUND" value="11abff" />
-      <option name="ERROR_STRIPE_COLOR" value="11abff" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\b\?\b.*">
-      <option name="FOREGROUND" value="fff61c" />
-      <option name="ERROR_STRIPE_COLOR" value="fff61c" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\bstep\b.*">
-      <option name="FOREGROUND" value="39ffd6" />
-      <option name="ERROR_STRIPE_COLOR" value="39ffd6" />
-    </pattern>
     <filter name="todo|fixme">
       <pattern index="0" />
     </filter>
-    <filter name="c++">
-      <pattern index="1" />
-    </filter>
-    <filter name="note">
-      <pattern index="2" />
-    </filter>
-    <filter name="step">
-      <pattern index="4" />
-    </filter>
-    <filter name="?">
-      <pattern index="3" />
-    </filter>
+    <filter name="c++" />
+    <filter name="note" />
+    <filter name="step" />
+    <filter name="?" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
