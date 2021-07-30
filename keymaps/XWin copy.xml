@@ -26,5 +26,11 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
