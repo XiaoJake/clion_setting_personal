@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="C/C++">
+        <added pattern="cartographer_ros::SensorBridge::SensorBridge(num_subdivisions_per_laser_scan,tracking_frame,lookup_transform_timeout_sec,tf_buffer,trajectory_builder)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
