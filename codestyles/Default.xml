@@ -1,5 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="180" />
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cc" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
     <option name="RIGHT_MARGIN" value="160" />
     <option name="WRAP_ON_TYPING" value="0" />
