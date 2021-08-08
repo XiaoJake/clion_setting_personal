@@ -5,6 +5,7 @@
         <added pattern="cartographer_ros::SensorBridge::SensorBridge(num_subdivisions_per_laser_scan,tracking_frame,lookup_transform_timeout_sec,tf_buffer,trajectory_builder)" />
         <added pattern="std::vector::vector(n,value,a)" />
         <added pattern="LOG_EVERY_N(severity,n)" />
+        <added pattern="CHECK_EQ(val1,val2)" />
       </blacklist>
     </blacklists>
   </component>
