@@ -9,8 +9,5 @@
         <added pattern="chargeroom_localization::RegistrationInterface::ScanMatch(input_source,predict_pose,result_cloud_ptr,result_pose)" />
       </blacklist>
     </blacklists>
-    <disabledLanguages>
-      <language id="ObjectiveC" />
-    </disabledLanguages>
   </component>
 </application>
