@@ -8,6 +8,7 @@
         <added pattern="CHECK_EQ(val1,val2)" />
         <added pattern="chargeroom_localization::RegistrationInterface::ScanMatch(input_source,predict_pose,result_cloud_ptr,result_pose)" />
         <added pattern="cartographer::mapping::PoseGraphInterface::SubmapData::SubmapData(.submap,.pose)" />
+        <added pattern="cartographer::mapping::PoseGraphInterface::Constraint::Constraint(.submap_id,.node_id,.pose,.tag)" />
       </blacklist>
     </blacklists>
   </component>
