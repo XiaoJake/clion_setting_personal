@@ -11,5 +11,8 @@
         <added pattern="cartographer::mapping::PoseGraphInterface::Constraint::Constraint(.submap_id,.node_id,.pose,.tag)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="ObjectiveC" />
+    </disabledLanguages>
   </component>
 </application>
