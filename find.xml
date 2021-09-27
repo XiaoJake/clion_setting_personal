@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cc" />
+    <option name="FILE_MASK" value="*.lua" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -28,7 +28,7 @@
     <mask>*.ii</mask>
     <mask>*.c</mask>
     <mask>*.cpp</mask>
-    <mask>*.lua</mask>
     <mask>*.cc</mask>
+    <mask>*.lua</mask>
   </component>
 </application>
