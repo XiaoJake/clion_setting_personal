@@ -1,11 +1,16 @@
 <scheme name="_@user_Dracula Colorful" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-07-09T09:22:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2022-09-14T20:03:59</property>
+    <property name="modified">2022-10-18T14:52:53</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
@@ -57,6 +62,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="50fa7b" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
     <option name="VISUAL_INDENT_GUIDE" value="6b7090" />
+    <option name="WHITESPACES" value="ffffff" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffb86c" />
   </colors>
   <attributes>
