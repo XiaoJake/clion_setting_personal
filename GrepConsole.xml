@@ -1,5 +1,28 @@
 <application>
   <component name="GrepConsole">
+    <option name="grepHistory">
+      <list>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="error*" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+      </list>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
